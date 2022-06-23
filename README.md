@@ -1,3 +1,7 @@
+ESTE É MEU PRIMEIRO PROJETO EM HTML. ELE FOI INICIADO A PARTIR DE UMA SÉRIE DE VÍDEOS NO YOUTUBE.
+ABAIXO SEGUEM AS INSTRUÇÕES E LINKS DO CRIADOR DE CONTEÚDO.
+
+
 # "HTML Project for Beginners"
 
 ✅ [Check out my YouTube Channel with all of my tutorials](https://www.youtube.com/DaveGrayTeachesCode).
