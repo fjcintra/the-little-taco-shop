@@ -9,6 +9,7 @@ body {
     padding: 1rem;
     border-left: 1px solid #333;
     border-right: 1px solid #333;
+    background: radial-gradient(circle, white, lightblue);
 }
 
 th, td, caption {
